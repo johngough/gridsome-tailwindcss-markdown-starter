@@ -13,7 +13,7 @@
     </header>
 
     <!-- Page Content -->
-    <main class="p-6">
+    <main class="p-6 xs:container">
       <slot/>
     </main>
 

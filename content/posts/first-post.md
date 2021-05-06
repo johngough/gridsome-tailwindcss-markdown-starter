@@ -1,57 +1,37 @@
 ---
-title: "Learn from this Example Post"
+title: "David was an Apache Pilot"
 description: "This is a test post to learn how to write markdown"
 date: 2020-10-01
 ---
-## Marito occiderat
-
-Lorem markdownum aurum, in sol promptu postquam quoque spectans monebat dubita
-conata et effuge aprica, pennis. Ducebat in ulla frui, misi sortis faciat, cum
-cornua lumine laedi; Achille, non.
-
-1. Vicina semperque tradere caliginis
-2. Recentia nec ab ureret Iulius
-3. Pace et Numam meruique merui sed finibus
-4. Erat sole avis
-5. Est clipeum velatos munere tu superi perque
-6. Quae dum
-
-## Rictuque ignes ut granum iactatis
-
-Enim turaque, sine movit aquila discordibus tamen lupis ab enim factus classem
-pulvere. Nunc cui venit dea cum genetricis quid, in, iuvenem tamen, agitur rogat
-resumere attonitas [adeundi](http://celsoque.com/). Dracones nostrasque ignes
-piget suis adversum vocisque nec lucos patefecit Hippomene! Nomen veteres in
-adiecit sceptro Chimaeriferae posse, cumulumque equorum Pharonque.
-
-Accessus mors. **Nisi laeto**, prole illis facies siquid? Et curvum recepta
-oneris, venturis talibus patris, labi que. Et intumui? Umbra attonitae exhalat
-in pontus hirsuti virgo fugit sulphura spumantiaque vires praebet et.
-
-## Noctes oblivia
-
-Simque [est arborei](http://at.org/manibusque-cum.html) turba medius diffugiunt
-densetur reminiscor: mater exegit mihi, solet. Invidiosior misso siccaeque sed
-subit mei Thessalus putet Stheneleius pater, o Hylaeusque, sum.
-
-## Derepta dixit Periclymeni in pedum
-
-Conplexae deorum praeferre postquam utrumque et potente vultus matri; erat
-[est](http://parvi.io/bacchiadaedilecta); animos. Sumit remittant sed sola
-[natus](http://fine.com/socericolchide) malorum, adhibere cecidere crudele
-tellus. Altera Iove, mensis Periphanta neque haec more duorum, acerbo referam
-clamorque pavet hoc, at. Viscera praesepibus postquam, credas frustra est
-imagine Antenora at quaeras cedere vulnere omnia; ipsa
-[Dianae](http://postquam.io/harenasdelenit).
-
-## Mansit modus sua similes ferrem
-
-Reddite longi curvum, [in forma
-quaeque](http://vocem-quoque.net/instantesvulnera.html), manu pudore genetrix;
-sub. Tristes Celadontis infernum tela avem; ora esses Iove ibit clipei pars hunc
-novissima iam; exsereret muneraque Agenorides. Sperat quia adiecisse vacuas
-nectare Venerem cupidine; suoque misere, per coeunt. Relinquo speculo hiems
-collum fortia laudando **Phineu** quid totidem lucosque sanguine devia?
-
-Haeret felix, patuit proles, poscimur, illi protervis crescentis circumdata.
-Quid tot perstat deus.
+- David was an apache helicopter pilot
+- turned Columbia CS
+- And when I met him, we were sitting in a small conference room in a non-descript office building in Portland ME
+- He was in charge of IT for a PE firm, that focused on acquiring a portfolio of small, profitable businesses with the intent to never sell
+- They hadn't vertically integrated, but were strategically buying landscaping companies across a broad geo
+- This isn't proprietary - they talked about it in the NYT. Twice.
+- The business strategy was sound, but the part of the organization's philosophy that has stayed with me is this:
+- David's framework for the strength of an organizations information systems
+- Threat, Neutral, Competitive Advantage
+- Organizations have a digital health
+- it exists even if it's not deliberate
+- their systems quality, integrity, integration into business process exist on a spectrum from threat to advantage
+- Most organizations start at a threat level, and never emerge
+- a threat means that the way you store, manage, or retrieve your data is compromising your ability to act in the marketplace
+- Holly hired a petting zoo for her preschool, and the guy showed up at the end of his party because the calendar on his phone didn't save the appointment.
+- He lost money because his technology wasn't helping him
+- This is frequently true for large organizations, even apparently technical ones
+- Beckman is so big that they bid against other parts of the organization for linkedin ad placements, driving up the cost of their own ads
+- Most commonly this manifests itself in poor data centered decision making
+- What is our average customer acquisition cost?
+- What is our most profitable product?
+- What does our best customer look like?
+- What should I do next?
+- HOW DO I MOVE OUT OF THE THREAT ZONE??
+- Neutral
+- Your digital position is no longer hurting your business, but it's not helping either
+- In this situation, it requires maintenance, but is mostly inviduaul
+- 
+- Competitive Advantage
+- 
+- The skews right - the tail is in the advantage
+- Fortune 500 assessment of digital strength from Cardinal Path is proof
